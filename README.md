@@ -7,7 +7,7 @@
 
 # History
 
-[Visual Ruler ](https://itunes.apple.com/us/app/visualruler/id1116399255)
+<!-- [Visual Ruler ](https://itunes.apple.com/us/app/visualruler/id1116399255)
 ![VisualRuler](img/visualruler.jpg)
 
 [Grab ](https://itunes.apple.com/us/app/grab-airport-mobile-ordering/id1044645710)
@@ -20,4 +20,4 @@ Credit Cart (2008)
 ![VisualRuler](img/visualruler.jpg)
 
 [Visual Ruler ](https://itunes.apple.com/us/app/visualruler/id1116399255)
-![VisualRuler](img/visualruler.jpg) -->
+![VisualRuler](img/visualruler.jpg) --> -->
